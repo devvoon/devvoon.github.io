@@ -103,7 +103,7 @@ Barney Betty
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem4195/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem4195/Main.java)
 
 - HashMap 이름을 담을 List를 만들고 이름을 넣음
 

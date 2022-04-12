@@ -86,7 +86,7 @@ permalink: "/datastructure-linear-array-list-vs-linked-list/"
 
 
 #### JAVA ArrayList Collection Framework를 이용한 ArrayList 사용해보기
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/list/ArrayListExample.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-datastructure/src/list/ArrayListExample.java)
 
 
 ```java
@@ -112,7 +112,7 @@ output
 
 
 #### JAVA로 ArrayList 구현해보기
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/list/arraylist/implementation/ArrayList.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-datastructure/src/list/arraylist/implementation/ArrayList.java)
 
 
 ```java

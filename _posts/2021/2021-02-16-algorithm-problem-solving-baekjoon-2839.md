@@ -37,7 +37,7 @@ permalink: "/algorithm-problem-solving-baekjoon-2839/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2839/Main.java){: target="_blank"}
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2839/Main.java){: target="_blank"}
 
 ```java
 int max = n/5; // 5키로 최대 갯수

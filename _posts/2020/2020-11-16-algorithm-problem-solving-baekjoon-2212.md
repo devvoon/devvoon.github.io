@@ -65,7 +65,7 @@ permalink: "/algorithm-problem-solving-baekjoon-2212/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2212/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2212/Main.java)
 
 - 집중국의 갯수가 센서의 갯수보다 크거나 같으면 센서간의 거리가 0이 됨으로, 0 출력하고 종료
 

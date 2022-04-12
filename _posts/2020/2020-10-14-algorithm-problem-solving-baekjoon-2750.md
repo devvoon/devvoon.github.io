@@ -85,13 +85,13 @@ N개의 수가 주어졌을 때, 이를 오름차순으로 정렬하는 프로�
 2. 정렬은 bubble sort 구현 or Arrsys.sort 를 사용하여 정렬
 3. 출력
 
-[참고:버블정렬](http://dawoonjeong.com/algorithm-sort-bubble/)
+[참고:버블정렬]({{ site.url }}{{ site.baseurl }}/algorithm-sort-bubble/)
 
 ### 구현
 
 #### bubble sort를 직접 구현 해서 정렬
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2750/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2750/Main.java)
 
 
 ```java
@@ -123,7 +123,7 @@ private static int[] solution(int[] numbers) {
 
 #### Arrays.sort() 를 이용해서 정렬
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2750/MainAPI.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2750/MainAPI.java)
 
 ```java
 Arrays.sort(numbers);

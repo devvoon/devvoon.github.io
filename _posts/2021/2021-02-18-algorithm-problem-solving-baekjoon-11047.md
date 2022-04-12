@@ -32,7 +32,7 @@ permalink: "/algorithm-problem-solving-baekjoon-11047/"
 ## 풀이
 
 ### 문제 파악
-- [5585 거스름돈](http://dawoonjeong.com/algorithm-problem-solving-baekjoon-5585/){: target="_blank"} 문제와 유사한 풀이
+- [5585 거스름돈]({{ site.url }}{{ site.baseurl }}/algorithm-problem-solving-baekjoon-5585/){: target="_blank"} 문제와 유사한 풀이
 - 동전의 정렬 (정렬되어있는 문제이므로 정렬 필요 없음) a
 - 동전의 큰 금액부터 계산
 - 동전의 사용 갯수(count)는 나누기 연산 이용  
@@ -40,7 +40,7 @@ permalink: "/algorithm-problem-solving-baekjoon-11047/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11047/Main.java){: target="_blank"}
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11047/Main.java){: target="_blank"}
 
 ```java
 int count = 0;

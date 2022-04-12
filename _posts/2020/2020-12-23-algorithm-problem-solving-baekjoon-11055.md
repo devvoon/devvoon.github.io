@@ -60,7 +60,7 @@ permalink: "/algorithm-problem-solving-baekjoon-11055/"
 ## 풀이
 
 ### 문제 파악
-- [11053 가장 긴 증가하는 부분 수열](http://dawoonjeong.com/algorithm-problem-solving-baekjoon-11053/) 와 유사한 문제
+- [11053 가장 긴 증가하는 부분 수열]({{ site.url }}{{ site.baseurl }}/algorithm-problem-solving-baekjoon-11053/) 와 유사한 문제
 - 수열의 합을 구해야함
 - dp[i] = Math.max(dp[i], dp[j]+arr[i])
 
@@ -83,7 +83,7 @@ permalink: "/algorithm-problem-solving-baekjoon-11055/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11055/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11055/Main.java)
 
 ```java
 for (int i = 1; i < n; i++) {

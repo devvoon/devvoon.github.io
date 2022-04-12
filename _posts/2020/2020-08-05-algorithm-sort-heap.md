@@ -87,7 +87,7 @@ heapify 프로시저는 하향식으로 힙을 빌드하기 위해 재귀 적으
 - index of the right child node = array[(2*i)+2]
 
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/sort/heap/HeapSortMain.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-datastructure/src/sort/heap/HeapSortMain.java)
 
 
 ```java

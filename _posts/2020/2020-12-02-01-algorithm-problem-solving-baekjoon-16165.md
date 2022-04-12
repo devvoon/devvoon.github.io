@@ -110,7 +110,7 @@ blackpink
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem16165/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem16165/Main.java)
 
 - hashmap 으로 팀명 - 멤버명 받아서 구현
 - hashmap  value 로 key 를 찾으려다 보다 for 문이 두번 사용되고 소스 전체로 봤을때 for문이 3번이나 됨
@@ -166,7 +166,7 @@ for (int i = 0; i < M; i++) {
 }// end for
 ```
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem16165/Main2.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem16165/Main2.java)
 
 - hashmap 으로 팀명 - 멤버명 받아서 구현
 - 두군데 받아야하지만, 찾을때는 확실히 간단

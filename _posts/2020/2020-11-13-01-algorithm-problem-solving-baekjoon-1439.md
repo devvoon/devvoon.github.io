@@ -69,7 +69,7 @@ permalink: "/algorithm-problem-solving-baekjoon-1439/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1439/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1439/Main.java)
 
 - 처음 숫자를 기준으로 모두 0을 만들 경우(count0) 횟수 구하기
 - 처음 숫자를 기준으로 모두 1로 만들 경우(count1) 횟수 구하기

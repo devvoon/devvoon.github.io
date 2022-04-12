@@ -136,7 +136,7 @@ APC는 프로그래밍 대회에 익숙하지 않은 학생들과 전공생이 �
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem17224/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem17224/Main.java)
 
 - 능력치를 기준으로 어려운 문제 풀수 있는 갯수 구하기 (hard)
 - 쉬운문제만 풀수있는 경우 갯수 구하기 (easy)

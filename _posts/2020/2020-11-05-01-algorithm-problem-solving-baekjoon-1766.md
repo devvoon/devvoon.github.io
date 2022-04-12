@@ -83,7 +83,7 @@ permalink: "/algorithm-problem-solving-baekjoon-1766/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1766/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1766/Main.java)
 
 - 배열 및 위상을 입력할 변수 선언
 

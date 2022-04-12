@@ -79,7 +79,7 @@ permalink: "/algorithm-problem-solving-baekjoon-1781/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1781/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1781/Main.java)
 
 - 입력받은 데드라인과 컵라면을 정렬
 - 데드라인이 같을 경우 컵라면 오름차순으로 정렬 해주기

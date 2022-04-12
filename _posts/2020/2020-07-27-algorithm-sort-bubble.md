@@ -57,7 +57,7 @@ ebd for
 
 ### java로 버블정렬 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/sort/bubble/BubbleSort.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/sort/bubble/BubbleSort.java)
 
 
 ```java

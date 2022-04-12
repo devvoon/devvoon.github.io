@@ -79,7 +79,7 @@ permalink: "/datastructure-linear-list/"
 ### 예제
 #### - JAVA Collection Framework를 이용한 LinkedList 사용해보기
 - 실제 java의 linked list는 linkDoubly Linked List로 구현 됨   
-[전체소스 보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/list/LinkedListExample.java)
+[전체소스 보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-datastructure/src/list/LinkedListExample.java)
 
 
 ```java
@@ -121,7 +121,7 @@ E
 
 
 #### - JAVA로 linked list 구현해보기  
-[전체 소스 보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/list/linkedlist/implementation/LinkedList.java)
+[전체 소스 보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-datastructure/src/list/linkedlist/implementation/LinkedList.java)
 
 
 ```java
@@ -205,7 +205,7 @@ false
 
 ### 예제
 #### - JAVA로 doubly linked list 구현해보기  
-[전체 소스 보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/list/doublylinkedlist/implementation/DoublyLinkedList.java)
+[전체 소스 보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-datastructure/src/list/doublylinkedlist/implementation/DoublyLinkedList.java)
 
 
 

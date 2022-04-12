@@ -86,7 +86,7 @@ DD.W..
 ### 구현
 
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem16956/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem16956/Main.java)
 
 
 - 늑대가 이동할 수 있는 위치에 대해서 미리 좌표를 시계방향으로 구하고 체크

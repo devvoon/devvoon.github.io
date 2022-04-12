@@ -57,7 +57,7 @@ location은 0 이상 (현재 대기목록에 있는 작업 수 - 1) 이하의 �
 ## 풀이
 
 ### 문제 파악
-- 백준문제 [1966](http://dawoonjeong.com/algorithm-problem-solving-baekjoon-1966)와 유사한 문제
+- 백준문제 [1966]({{ site.url }}{{ site.baseurl }}/algorithm-problem-solving-baekjoon-1966)와 유사한 문제
 - 똑같이 구현했으나 시간초과로 실패
 
 ### 구현
@@ -69,7 +69,7 @@ location은 0 이상 (현재 대기목록에 있는 작업 수 - 1) 이하의 �
 - 찾아야할 문서의 값(target)도 따로 구현해 주었으나 index 값 체크로 확인하는 로직으로 수정
 - 코드가 간결해줌  
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/programmers/lessons42587/Solution.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/programmers/lessons42587/Solution.java)
 
 ```java
 int index = location;
@@ -104,7 +104,7 @@ while (!queue.isEmpty()) {
 
 - PriorityQueue<Integer>를 선언하여 Collections.reverseOrder() 해 줌
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/programmers/lessons42586/Solution2.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/programmers/lessons42586/Solution2.java)
 
 ```java
 PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());

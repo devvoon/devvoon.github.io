@@ -53,7 +53,7 @@ permalink: "/algorithm-greedy/"
 2. 동전을 더하여 총 금액을 초과하지 않을 만큼 각 동전의 필요 갯수 구하기
 
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/greedy/coincount/CountCoinMain.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/greedy/coincount/CountCoinMain.java)
 
 ```java
 public static int[][] countCoin(int amount, int[] arr) {
@@ -108,7 +108,7 @@ output
 6. 아이템을 한개를 온전히 담을 수 없을땐 쪼개서 capacity채우기
 
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/greedy/knapsack/FractionalKnapSack.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/greedy/knapsack/FractionalKnapSack.java)
 
 
 ```java

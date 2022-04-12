@@ -54,7 +54,7 @@ permalink: "/algorithm-dynamic/"
 - F<sub>n+2</sub>=F<sub>n+1</sub>+F<sub>n</sub>
 
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/dynammic/fibonacci/fibonacciDynamic.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/dynammic/fibonacci/fibonacciDynamic.java)
 
 
 ```java

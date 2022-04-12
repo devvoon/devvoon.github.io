@@ -98,7 +98,7 @@ N명 학생들의 점수가 주어졌을 때, 가장 높은 점수와 가장 낮
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem15969/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem15969/Main.java)
 
 - 정렬 후, 최대 값과 최소값을 추출하여 연산한 후 출력  
 

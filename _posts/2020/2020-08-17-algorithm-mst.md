@@ -91,7 +91,7 @@ permalink: "/algorithm-mst/"
 
 ### java로 kruskal 알고리즘 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/mst/kruskal/Graph.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/mst/kruskal/Graph.java)
 
 
 ## **Prim algorithm(프라임/프림 알고리즘)**
@@ -123,7 +123,7 @@ permalink: "/algorithm-mst/"
 
 ### java로 prim 알고리즘 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/mst/prim/MSTPrim.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/mst/prim/MSTPrim.java)
 
 
 ## 참고 : Union-Find algorithm (유니온-파인드 알고리즘)

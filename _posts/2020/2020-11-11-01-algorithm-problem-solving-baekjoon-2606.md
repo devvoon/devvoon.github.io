@@ -75,7 +75,7 @@ permalink: "/algorithm-problem-solving-baekjoon-2606/"
 
 ### dfs로 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2606/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2606/Main.java)
 
 ```java
 public static void dfs(int[][] adjacent, boolean[] visited, int vertex) {
@@ -93,7 +93,7 @@ public static void dfs(int[][] adjacent, boolean[] visited, int vertex) {
 
 #### bfs 로 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2606/Main2.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2606/Main2.java)
 
 ```java
 public static void bfs(int[][] adjacent, boolean[] visited, int vertex) {

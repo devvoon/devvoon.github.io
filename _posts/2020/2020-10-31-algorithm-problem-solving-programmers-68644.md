@@ -58,7 +58,7 @@ numbers의 모든 수는 0 이상 100 이하입니다.
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/programmers/lessons68644/Solution.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/programmers/lessons68644/Solution.java)
 
 - 겹치지 않는 두수를 선택해서 더해서 넣어줌
 

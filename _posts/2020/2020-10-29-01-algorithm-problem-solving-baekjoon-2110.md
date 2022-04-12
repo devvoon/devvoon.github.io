@@ -77,12 +77,12 @@ permalink: "/algorithm-problem-solving-baekjoon-2110/"
 9
 ```
 
-[참고: 이진검색](http://dawoonjeong.com/algorithm-search/)
+[참고: 이진검색]({{ site.url }}{{ site.baseurl }}/algorithm-search/)
 
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2110/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2110/Main.java)
 
 - 집 좌표 오름차순 정렬 해주기
 

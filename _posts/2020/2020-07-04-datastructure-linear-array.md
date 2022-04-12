@@ -107,7 +107,7 @@ permalink: "/datastructure-linear-array/"
 
 
 ### 예제: 자바의 1차원 배열
-[1차원 배열 예제 소스](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/array/ArrayExample.java)
+[1차원 배열 예제 소스]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-datastructure/src/array/ArrayExample.java)
 
 output
 
@@ -142,7 +142,7 @@ null : string은 null 출력
 
 
 ### 예제: 자바의 다차원 배열
-[다차원 배열 예제 소스](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/array/ArrayNExample.java)
+[다차원 배열 예제 소스]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-datastructure/src/array/ArrayNExample.java)
 
 output
 

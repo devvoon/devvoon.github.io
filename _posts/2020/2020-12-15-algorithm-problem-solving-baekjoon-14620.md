@@ -95,7 +95,7 @@ permalink: "/algorithm-problem-solving-baekjoon-14620/"
 ### 구현
 
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem14620/Main.java)
+[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem14620/Main.java)
 
 
 - 세 군데 위치를 겹치지 않게 모두 다 탐색하기 위해서 for문 세개 사용
