@@ -55,7 +55,7 @@ Baekjoon
 ### 문제 파악
 - 문제에서 나왔듯이 해싱알고리즘은 SHA-256를 이용하여 해시값을 구함
 
-[참고:해시](http://dawoonjeong.com/algorithm-hash/)
+[참고:해시]({{ site.url }}{{ site.baseurl }}/algorithm-hash/)
 
 ### 구현
 

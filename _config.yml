@@ -10,18 +10,18 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                    : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@4.9.0"
+#theme                    : "minimal-mistakes-jekyll"   #dev
+remote_theme             : "mmistakes/minimal-mistakes@4.9.0" #product
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DW dev blog"
+title                    : "devvoon blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dawoon Jeong"
 description              : "아름다운 정다운 개발자 블로그"
-url                      : https://iamdawoonjeong.github.io
+url                      : https://devvoon.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -98,9 +98,9 @@ author:
   bio              : "아름다운 정다운"
   location         : "DAWOONTOWN"
   email            : iamdawoonjeong@gmail.com
-  github           : iamdawoonjeong
+  github           : devvoon
   instagram        : iamdawoonjeong
-  youtube          : https://www.youtube.com/channel/UCHsLxOp1A8vULG4VPsVKd1Q
+  youtube          :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -138,13 +138,10 @@ footer:
       # url:
     - label: GitHub
       icon: fab fa-fw fa-github
-      url: "https://github.com/iamdawoonjeong"
+      url: "https://github.com/devvoon"
     - label: Instagram
       icon: fab fa-fw fa-instagram
       url: "https://instagram.com/iamdawoonjeong"
-    - label: youtube
-      icon: fab fa-fw fa-youtube
-      url: "https://www.youtube.com/channel/UCHsLxOp1A8vULG4VPsVKd1Q"
 
 # Reading Files
 include:
