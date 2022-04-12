@@ -59,7 +59,7 @@ permalink: "/algorithm-divide-conquer/"
 
 ### 자바를 이용하여 divide and conquer - fibonacci 수열 구현 (재귀함수 사용)
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/recursion/Fibonacci.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/recursion/Fibonacci.java)
 
 
 ```java

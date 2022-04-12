@@ -149,7 +149,7 @@ A[6][1]   A[6][2]   A[6][3]   A[6][4]   A[6][5]   A[6][6]
 
 ### 구현
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem17406/Main.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem17406/Main.java)
 
 
 ---

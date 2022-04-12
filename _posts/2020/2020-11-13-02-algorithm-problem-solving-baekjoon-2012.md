@@ -71,7 +71,7 @@ KOI 담당조교로 참가한 김진영 조교는 실수로 모든 학생의 프
 
 ### 구현
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2012/Main.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2012/Main.java)
 
 
 - 예상순의 오름차순 정렬

@@ -205,7 +205,7 @@ permalink: "/datastructure-non-linear-tree/"
 
 ### 예제
 #### 자바로 구현한 이진검색트리 ( binary search tree implementation using JAVA )
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-datastructure/src/tree/binarysearchtree/implementation/BinarySearchTree.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/tree/binarysearchtree/implementation/BinarySearchTree.java)
 
 output
 ```java

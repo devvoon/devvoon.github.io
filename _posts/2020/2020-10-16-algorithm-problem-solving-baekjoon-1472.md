@@ -64,7 +64,7 @@ permalink: "/algorithm-problem-solving-baekjoon-1472/"
 
 #### bubblesort 구현하여 정렬
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1472/Main.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1472/Main.java)
 
 ```java
 private static int[] solution(int[] numbers) {
@@ -94,7 +94,7 @@ private static int[] solution(int[] numbers) {
 
 #### 내림차순 정렬 방법1
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1472/MainAPI.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1472/MainAPI.java)
 
 ```java
 Arrays.sort(arr, new Comparator<Integer>() {
@@ -109,7 +109,7 @@ Arrays.sort(arr, new Comparator<Integer>() {
 
 #### 내림차순 정렬 방법2
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1472/MainAPI2.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1472/MainAPI2.java)
 
 ```java
 Arrays.sort(arr, new Comparator<Integer>() {
@@ -124,7 +124,7 @@ Arrays.sort(arr, new Comparator<Integer>() {
 
 
 ### 결론
-- 지난번 [2750 수 정렬하기]({{ site.url }}{{ site.baseurl }}/algorithm-problem-solving-baekjoon-10930/) 문제에서 정렬 알고리즘을 구현 하는 것보다 api사용이 빠르다는 것을 확인
+- 지난번 [2750 수 정렬하기](http://dawoonjeong.com/algorithm-problem-solving-baekjoon-10930/) 문제에서 정렬 알고리즘을 구현 하는 것보다 api사용이 빠르다는 것을 확인
 - 그러나 이 문제인 경우 버블정렬을 구현했을때와 sort를 사용했을때 비슷한데 이는 문제의 조건으로 추정 됨  
 - 이 문제는 N이 1억개가 주어지고, 2750 수 정렬하기 문제는 1000개 였음
 - 문제의 조건에 따라 달라질 수 있으니 적절한 것을 사용

@@ -94,7 +94,7 @@ K개의 소수가 주어졌을 때, 이러한 소수의 곱들 중에서 N번째
 ### 구현
 
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2014/Main2.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2014/Main2.java)
 
 - 2 3 5 7 을 반복 해서 곱했을 때, 곱해서나온 수(min)와 곱하는 수 (arr[i])  나누기 0 이 나오면 그뒤로는 계산이 필요없음
 
@@ -163,7 +163,7 @@ while( index < n ) {
 
 - **set으로 중복체크하면 생각하기 매우 간단하나 메모리초과 발생 **
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2014/Main2.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2014/Main2.java)
 
 - set 을 선언해 주고
 ```java

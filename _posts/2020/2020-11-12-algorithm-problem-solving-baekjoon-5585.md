@@ -62,7 +62,7 @@ permalink: "/algorithm-problem-solving-baekjoon-5585/"
 
 ### 구현
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem5585/Main.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem5585/Main.java)
 
 
 - 잔돈의 종류는 미리 정해주었으므로 내림차순순으로 배열에 담아 둠 (conis[])

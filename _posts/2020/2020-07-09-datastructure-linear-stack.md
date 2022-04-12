@@ -76,7 +76,7 @@ permalink: "/datastructure-linear-stack/"
 ![datastructure-stack-in-java]({{ site.baseurl }}/assets/images/posts/2020/datastructure-stack-in-java.png)
 
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-datastructure/src/stack/StackExample.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/stack/StackExample.java)
 
 
 ```java
@@ -103,7 +103,7 @@ output
 
 #### JAVA로 배열을 이용해서 Stack 구현해 보기
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-datastructure/src/stack/implementation/Stack.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/stack/implementation/Stack.java)
 
 ```java
 private Object[] elementData = new Object[size];  //배열 이용해서 생성

@@ -62,7 +62,7 @@ permalink: "/algorithm-search/"
 
 ### java로 선형 탐색 구현
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/search/linear/LinearSearchMain.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/search/linear/LinearSearchMain.java)
 
 ```java
 public static int linearSearch(int arr[], int x) {
@@ -106,7 +106,7 @@ public static int linearSearch(int arr[], int x) {
 
 ### java로 이진 검색 구현
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/search/binary/BinarySearch.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/search/binary/BinarySearch.java)
 
 - 반복문을 이용한 binary search
 

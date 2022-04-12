@@ -23,7 +23,7 @@ permalink: "/java-arraylist_of_arraylist/"
 ---
 # ArrayList의 ArrayList
 
-[0 만들기]({{ site.url }}{{ site.baseurl }}/algorithm-problem-solving-baekjoon-7490/) 풀면서 사용했던 ArrayList의 ArrayList
+[0 만들기](http://dawoonjeong.com/algorithm-problem-solving-baekjoon-7490/) 풀면서 사용했던 ArrayList의 ArrayList
 실질적으로 자주 쓰진 않지만 알아두면 알고리즘 문제 풀 때 한번씩 사용 하게 됨
 
 ### 사용법
@@ -125,7 +125,7 @@ for (ArrayList<Integer> al : list) {
 [10, 20, 30, 40, 50]
 ```
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-basic/src/arraylistofarraylist/ArrayListOfArrayList.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-basic/src/arraylistofarraylist/ArrayListOfArrayList.java)
 
 ---
 #### references

@@ -65,12 +65,12 @@ noojkeab enilno egduj
 
 ### 문제 파악
 - <>안에 문자를 제외하고 공백을 기준으로 뒤집어서 출력
-- [키로거]({{ site.url }}{{ site.baseurl }}/algorithm-problem-solving-baekjoon-5397/) 문제처럼 stack 을 활용
+- [키로거](http://dawoonjeong.com/algorithm-problem-solving-baekjoon-5397/) 문제처럼 stack 을 활용
 
 
 ### 구현
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem17413/Main.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem17413/Main.java)
 
 
 - 뒤집어서 출력될 필요없는 문자는 StringBuilder 에 바로 붙여줌

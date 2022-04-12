@@ -120,7 +120,7 @@ Collections.sort(list, Collections.reverseOrder());
 ```
 
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-basic/src/sort/SortAPI.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-basic/src/sort/SortAPI.java)
 
 ---
 #### references

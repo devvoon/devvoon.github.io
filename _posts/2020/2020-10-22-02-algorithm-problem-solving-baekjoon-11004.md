@@ -62,7 +62,7 @@ A를 정렬했을 때, 앞에서부터 K번째 있는 수를 출력한다.
 
 ### 문제 파악
 
-- [퀵]({{ site.url }}{{ site.baseurl }}/algorithm-sort-quick/), [병합]({{ site.url }}{{ site.baseurl }}/algorithm-sort-merge/), [힙]({{ site.url }}{{ site.baseurl }}/algorithm-sort-heap/) 정렬 이용하기(모두다 DAC로 재귀 용법을 이용)
+- [퀵](http://dawoonjeong.com/algorithm-sort-quick/), [병합](http://dawoonjeong.com/algorithm-sort-merge/), [힙](http://dawoonjeong.com/algorithm-sort-heap/) 정렬 이용하기(모두다 DAC로 재귀 용법을 이용)
 
 
 ### 구현
@@ -70,7 +70,7 @@ A를 정렬했을 때, 앞에서부터 K번째 있는 수를 출력한다.
 #### Quick Sort 구현해서 정렬
 - Merge Sort를 써도 되나 지난 문제에서 썼으니 이번엔 Quick Sort 이용
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11004/Main.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11004/Main.java)
 
 ```java
 private static int[] sort(int[] arr, int start, int end) {
@@ -114,7 +114,7 @@ private static int[] sort(int[] arr, int start, int end) {
 
 - StringTokenizer() 사용 : br.readline().split(" ") 시간초과로 실패
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11004/MainSort.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11004/MainSort.java)
 
 ```java
 StringTokenizer st = new StringTokenizer(br.readLine());
@@ -122,7 +122,7 @@ StringTokenizer st = new StringTokenizer(br.readLine());
 
 - LinkedList<Integer> 사용 : Arrays.sort(arr) 시간초과로 실패
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11004/MainCollection.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11004/MainCollection.java)
 
 ```java
 LinkedList<Integer> list = new LinkedList<Integer>();

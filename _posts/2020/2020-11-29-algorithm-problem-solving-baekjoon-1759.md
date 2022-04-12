@@ -78,7 +78,7 @@ istw
 
 ### 구현
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1759/Main.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1759/Main.java)
 
 
 - 암호를 사전순으로 출력해야 하기 때문에 정렬

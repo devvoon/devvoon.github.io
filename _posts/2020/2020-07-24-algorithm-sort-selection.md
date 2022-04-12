@@ -57,7 +57,7 @@ end for
 
 ### java로 선택정렬 구현
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/sort/selection/SelectionSort.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/sort/selection/SelectionSort.java)
 
 
 ```java

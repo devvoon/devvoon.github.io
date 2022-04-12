@@ -72,7 +72,7 @@ permalink: "/algorithm-problem-solving-baekjoon-1927/"
 ## 풀이
 
 ### 문제 파악
-- 노드 중 최소 값을 추출하는 [최소힙]({{ site.url }}{{ site.baseurl }}/algorithm-sort-heap/) 문제
+- 노드 중 최소 값을 추출하는 [최소힙](http://dawoonjeong.com/algorithm-sort-heap/) 문제
 
 ```java
 9   // n개의 정수 입력
@@ -89,7 +89,7 @@ permalink: "/algorithm-problem-solving-baekjoon-1927/"
 
 ### 구현
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1927/Main.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1927/Main.java)
 
 - 최소 heap구조를 가진 PriortyQueue 선언
 

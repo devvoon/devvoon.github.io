@@ -132,7 +132,7 @@ permalink: "/algorithm-problem-solving-baekjoon-5719/"
 - **시간초과, 메모리초과로 통과 못함**
 - 다시 풀어 볼 예정
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem5719/Main.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem5719/Main.java)
 
 ---
 

@@ -44,7 +44,7 @@ permalink: "/algorithm-sort-merge/"
 
 ### java로 병합 정렬 구현
 
-[전체소스보기]({{ site.url }}{{ site.baseurl }}/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/sort/merge/MergeSortMain.java)
+[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/sort/merge/MergeSortMain.java)
 
 
 ```java
