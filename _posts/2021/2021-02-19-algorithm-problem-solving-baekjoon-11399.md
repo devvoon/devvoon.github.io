@@ -39,7 +39,7 @@ permalink: "/algorithm-problem-solving-baekjoon-11399/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11399/Main.java){: target="_blank"}
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11399/Main.java){: target="_blank"}
 
 ```java
 //오름차순 정렬

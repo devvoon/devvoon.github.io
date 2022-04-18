@@ -68,13 +68,13 @@ N(1≤N≤1,000)명이 주사위 게임에 참여하였을 때, 가장 많은 �
 ## 풀이
 
 ### 문제 파악
-- [주사의 세개](http://dawoonjeong.com/algorithm-problem-solving-baekjoon-2480/)의 문제와 비슷하나 조건이 많아짐
+- [주사의 세개]({{ site.url }}/algorithm-problem-solving-baekjoon-2480/)의 문제와 비슷하나 조건이 많아짐
 - 같은 방식에서 몇가지 조건만 더 추가
 
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2484/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2484/Main.java)
 
 - 같은 눈이 2번 나왔을때, 1번 나왔을때의 조건을 잘 따져야함
 - 배열과 if문으로 제어하려다보니 변수를 많이 쓴 느낌이 듦(개선할 수 있음 해봄이 좋을 듯)

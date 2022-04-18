@@ -79,7 +79,7 @@ permalink: "/algorithm-problem-solving-baekjoon-1325/"
 -
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1325/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1325/Main.java)
 
 - 입력된 정점 연결
 

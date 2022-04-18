@@ -102,7 +102,7 @@ TK
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem16675/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem16675/Main.java)
 
 
 - 가위바위보 문자를 각 0,1,2로 치환

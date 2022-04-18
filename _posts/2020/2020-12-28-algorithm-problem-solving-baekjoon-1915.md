@@ -90,7 +90,7 @@ n×m의 0, 1로 된 배열이 있다. 이 배열에서 1로 된 가장 큰 정�
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1915/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1915/Main.java)
 
 
 - math.min 이 두가지의 숫자만 비교 가능해서 나누어서 비교

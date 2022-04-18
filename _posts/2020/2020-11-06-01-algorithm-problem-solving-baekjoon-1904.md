@@ -74,7 +74,7 @@ permalink: "/algorithm-problem-solving-baekjoon-1904/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1904/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1904/Main.java)
 
 - 문제에서 주어진 n의 수가 (N ≤ 1,000,000) 이기때문에 1,000,000 까지의 수가 들어갈수 있도록, 1000001 크기의 배열 선언
 

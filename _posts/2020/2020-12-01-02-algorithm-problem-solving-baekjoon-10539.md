@@ -93,7 +93,7 @@ permalink: "/algorithm-problem-solving-baekjoon-10539/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem10539/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem10539/Main.java)
 
 - 수열 B (result[i]) = (항의 갯수(i+1) / 수열 A 의 수 (arr[i])) - 수열 B의 합 (sum)     
 

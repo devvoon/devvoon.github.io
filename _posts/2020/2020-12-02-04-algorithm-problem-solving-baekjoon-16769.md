@@ -70,7 +70,7 @@ Please print three lines of output, giving the final amount of milk in each buck
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem16769/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem16769/Main.java)
 
 
 - 따라주고나면 현재우유양 milk[index], 다음우유 milk[next]를 한 반복문에서 구해주기

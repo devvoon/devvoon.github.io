@@ -81,7 +81,7 @@ permalink: "/algorithm-problem-solving-baekjoon-11053/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11053/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem11053/Main.java)
 
 ```java
 dp[0] = 1;

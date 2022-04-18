@@ -90,7 +90,7 @@ permalink: "/datastructure-linear-queue/"
 - 자료구조 를 구현한 자바 인터페이스
 - add . remove . peek메서드 지원
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/queue/QueueExample.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-datastructure/src/queue/QueueExample.java)
 
 ```java
 //Queue는 interface라 직접 객체 생성을 할 수 없으므로, LinkedList 로 인스턴스 생성
@@ -130,7 +130,7 @@ null
 
 #### JAVA로 Stack 구현해 보기
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-datastructure/src/queue/implementation/Queue.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-datastructure/src/queue/implementation/Queue.java)
 
 
 ```java

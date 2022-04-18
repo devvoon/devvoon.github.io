@@ -113,7 +113,7 @@ permalink: "/algorithm-problem-solving-baekjoon-1080/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1080/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1080/Main.java)
 
 - 같은좌표의 숫자가 다른 경우 뒤집힘 (flip)
 

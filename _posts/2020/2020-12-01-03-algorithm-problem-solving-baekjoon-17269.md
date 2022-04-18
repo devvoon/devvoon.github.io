@@ -105,7 +105,7 @@ BOJ IN
 
 #### hash map을 이용하여 풀기
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem17269/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem17269/Main.java)
 
 - 알파벳에 횟수를 hashmap 에 넣어줌 (key 값 중복 불가)
 - 배열로 해서 ascll코드를 이용하는 방법도 있음

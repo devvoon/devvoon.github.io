@@ -70,14 +70,14 @@ N개의 수가 주어졌을 때, 이를 오름차순으로 정렬하는 프로�
 ### 문제 파악
 - 1,000,000개의 수를 2초 안에 정렬해야하는 문제
 - 시간복잡도 O(NlogN)의 정렬알고리즘 이용하기
-- [퀵](http://dawoonjeong.com/algorithm-sort-quick/), [병합](http://dawoonjeong.com/algorithm-sort-merge/), [힙](http://dawoonjeong.com/algorithm-sort-heap/) 정렬 이용하기(모두다 DAC로 재귀 용법을 이용)
+- [퀵]({{ site.url }}/algorithm-sort-quick/), [병합]({{ site.url }}/algorithm-sort-merge/), [힙]({{ site.url }}/algorithm-sort-heap/) 정렬 이용하기(모두다 DAC로 재귀 용법을 이용)
 
 
 ### 구현
 
 #### Merge Sort 구현해서 정렬
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2751/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2751/Main.java)
 
 - 최악의 시간복잡도 O(NlogN)인 merge sort를 구현
 
@@ -139,7 +139,7 @@ private static void merge(int[] arr, int left, int mid, int right) {
 
 #### Collections.sort() 이용
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2751/MainCollection.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2751/MainCollection.java)
 
 - ArrayList 사용 : Arrays.sort() 사용시  **시간초과**로 실패  
 

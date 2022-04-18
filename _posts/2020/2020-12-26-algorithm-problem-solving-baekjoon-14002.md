@@ -63,7 +63,7 @@ permalink: "/algorithm-problem-solving-baekjoon-14002/"
 ## 풀이
 
 ### 문제 파악
-- [11053 가장 긴 증가하는 부분 수열](http://dawoonjeong.com/algorithm-problem-solving-baekjoon-11053/) 와 유사한 문제
+- [11053 가장 긴 증가하는 부분 수열]({{ site.url }}/algorithm-problem-solving-baekjoon-11053/) 와 유사한 문제
 - dp[i] = Math.max(dp[i], dp[j]+1)
 
 
@@ -82,7 +82,7 @@ permalink: "/algorithm-problem-solving-baekjoon-14002/"
 
 - **틀림 (반례케이스를 못 찾음)**
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem14002/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem14002/Main.java)
 
 - 최대값의 위치도 찾아야함
 - 최대값의 위치 : index = 5;

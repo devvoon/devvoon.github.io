@@ -63,7 +63,7 @@ permalink: "/algorithm-problem-solving-baekjoon-1715/"
 ### 문제 파악
 - 문제를 잘 읽어보면, 크기가 작은 숫자 카드 묶음들을 먼저 합친 것이 비교 횟수가 제일 적음
 - 작은 카드 부터 비교 해야함으로 우선순위 큐를 사용
-- [최소힙](http://dawoonjeong.com/algorithm-sort-heap/) 기법으로 작은 수를 root에 놓고 작은 수들 끼리 먼저 dequeue후 더한 합을 inqueue
+- [최소힙]({{ site.url }}/algorithm-sort-heap/) 기법으로 작은 수를 root에 놓고 작은 수들 끼리 먼저 dequeue후 더한 합을 inqueue
 - 작은 수들 끼리 먼저 dequeue후 더한 합을 inqueue를 반복하여 최종 노드가 1개 남을 때까지 반복
 
 ```java
@@ -107,7 +107,7 @@ permalink: "/algorithm-problem-solving-baekjoon-1715/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1715/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1715/Main.java)
 
 - PriorityQueue 선언
 

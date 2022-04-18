@@ -67,7 +67,7 @@ permalink: "/algorithm-problem-solving-baekjoon-2480/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2480/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem2480/Main.java)
 
 - 주사위의 눈을 배열의 index에 담아주고 나온 횟수를 배열의 값을 담음
 

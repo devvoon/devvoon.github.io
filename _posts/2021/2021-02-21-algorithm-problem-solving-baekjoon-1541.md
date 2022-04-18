@@ -37,7 +37,7 @@ permalink: "/algorithm-problem-solving-baekjoon-1541/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1541/Main.java){: target="_blank"}
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1541/Main.java){: target="_blank"}
 
 
 - "-" 기준으로 피연산자들 구하기

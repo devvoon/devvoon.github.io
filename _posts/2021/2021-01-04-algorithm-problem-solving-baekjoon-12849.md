@@ -67,7 +67,7 @@ D 가 주어진다 (1 ≤ D ≤ 100,000)
 - **문제 틀림**
 
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem12849/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem12849/Main.java)
 
 - 각 건물에 대해새 어느 인덱스로 들어갈 것인지 정해놓고 시작
 

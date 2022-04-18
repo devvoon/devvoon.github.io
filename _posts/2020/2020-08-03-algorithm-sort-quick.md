@@ -81,7 +81,7 @@ partition (arr[], low, high)
 
 ### java로 퀵 정렬 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/sort/quick/QuickSortMain.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/sort/quick/QuickSortMain.java)
 
 
 ```java

@@ -76,7 +76,7 @@ permalink: "/algorithm-problem-solving-baekjoon-9037/"
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem9037/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem9037/Main.java)
 
 - 맨처음부터 사탕갯수 체크하고 시작
 

@@ -85,7 +85,7 @@ Day Of Mourning의 기타리스트 강토는 다가오는 공연에서 연주할
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1495/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1495/Main.java)
 
 - 곡 순서별 볼륨차이 i=1 부터 담음(나중에 비교하기 쉽게)
 

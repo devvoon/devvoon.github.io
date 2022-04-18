@@ -76,13 +76,13 @@ N(2≤N≤10,000)개의 섬으로 이루어진 나라가 있다. 이들 중 몇 
 ```
 
 - 양방향 가중치 트리
-- 가장 가까운 노드를 선택하고 탐색되지 않은 모든 노드를 탐색하는 [BFS(Breath First Search)](http://dawoonjeong.com/algorithm-graph-bfs-dfs/)으로 풀어야할 문제  
-- [공유기설치](http://dawoonjeong.com/algorithm-problem-solving-baekjoon-2110/) 문제처럼 [binary search](http://dawoonjeong.com/algorithm-search/)로 최대 중량을 찾아야 함
+- 가장 가까운 노드를 선택하고 탐색되지 않은 모든 노드를 탐색하는 [BFS(Breath First Search)]({{ site.url }}/algorithm-graph-bfs-dfs/)으로 풀어야할 문제  
+- [공유기설치]({{ site.url }}/algorithm-problem-solving-baekjoon-2110/) 문제처럼 [binary search]({{ site.url }}/algorithm-search/)로 최대 중량을 찾아야 함
 
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1939/Main.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/baekjoon/problem1939/Main.java)
 
 - graph의 vertex(node)를 class로 생성
 

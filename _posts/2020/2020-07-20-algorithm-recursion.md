@@ -83,13 +83,13 @@ public static int functionRecursion(int n) {
 
 ## 순환적, 비순환적 알고리즘 예제
 
-[Sum : 1 ~ n 까지의 합 구하기 (Recrusion, for)](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/recursion/Sum.java)
+[Sum : 1 ~ n 까지의 합 구하기 (Recrusion, for)](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/recursion/Sum.java)
 
-[Factorial : n! 구하기 (Recrusion, for)](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/recursion/Factorial.java)
+[Factorial : n! 구하기 (Recrusion, for)](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/recursion/Factorial.java)
 
-[Fibonacci 구하기 (Recrusion, for)](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/recursion/Fibonacci.java)
+[Fibonacci 구하기 (Recrusion, for)](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/recursion/Fibonacci.java)
 
-[GCD(최대공약수)구하기 (Recursion, for)](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/recursion/GCD.java)
+[GCD(최대공약수)구하기 (Recursion, for)](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/recursion/GCD.java)
 
 
 ---

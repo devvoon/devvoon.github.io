@@ -66,7 +66,7 @@ v의 각 원소는 점의 좌표를 나타내며, 좌표는 [x축 좌표, y축 �
 
 ### 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/programmers/lessons1878/Solution.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-problem-solving/src/programmers/lessons1878/Solution.java)
 
 - hash set을 이용하여 각 x, y좌표의 수를 담음
 

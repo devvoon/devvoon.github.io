@@ -49,7 +49,7 @@ permalink: "/algorithm-sort-shell/"
 
 ### java로 쉘 정렬 구현
 
-[전체소스보기](https://github.com/iamdawoonjeong/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/sort/shell/ShellSort.java)
+[전체소스보기](https://github.com/devvoon/java-datastructure-algorithm/blob/master/java-algorithm-theory/src/sort/shell/ShellSort.java)
 
 ```java
   public void sort(int elementData[]) {
