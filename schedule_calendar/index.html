@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="kr">
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -21,7 +21,7 @@
     <!-- Style -->
     <link rel="stylesheet" href="css/style.css">
 
-    <title>Calendar #9</title>
+    <title>장원이 스케쥴</title>
   </head>
   <body>
   
@@ -30,8 +30,6 @@
     <div id='calendar'></div>
   </div>
     
-    
-
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
@@ -53,6 +51,7 @@
       defaultDate: Date.now(),
       editable: true,
       eventLimit: true, // allow "more" link when too many events
+      locale: "ko",
       events: jsonData
     });
 
