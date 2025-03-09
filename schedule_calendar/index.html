@@ -28,8 +28,7 @@
           defaultDate: Date.now(),
           editable: true,
           eventLimit: false, // allow "more" link when too many events
-          //hegit : 'auto',
-          height : window.innerHeight,
+          height : '100%',
           contentHeight: 'auto',
           locale: "ko",
           buttonText:{
@@ -78,6 +77,16 @@
     .fc-day-sat {
       color: #1976d2 !important; /* 파란색 */
   }
+
+    #calendar-container {
+      height: 100vh; /* 화면 전체 높이를 차지 */
+      display: flex;
+      flex-direction: column;
+    }
+
+    #calendar {
+      flex-grow: 1; /* 남은 공간을 자동으로 차지 */
+    }
 
   </style>
   <body>
