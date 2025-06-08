@@ -1,66 +1,62 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+<!DOCTYPE html>
+<html lang='ko'>
+<head>
+  <meta charset='utf-8' />
+  <script src='resources/fullcalendar-6.1.17/dist/index.global.min.js'></script>
+  <script type="text/javascript" src="json/data.json"></script>
+  <script>
 
-    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" rel="stylesheet">
+    document.addEventListener('DOMContentLoaded', function() {
+      var calendarEl = document.getElementById('calendar');
+      let jsonData = JSON.parse(JSON.stringify(data));
 
-    
-    <link rel="stylesheet" href="fonts/icomoon/style.css">
-  
-    <link href='fullcalendar/packages/core/main.css' rel='stylesheet' />
-    <link href='fullcalendar/packages/daygrid/main.css' rel='stylesheet' />
-    
-    
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    
-    <!-- Style -->
-    <link rel="stylesheet" href="css/style.css">
+      var calendar = new FullCalendar.Calendar(calendarEl, {
+        locale: 'ko',
+        defaultDate: Date.now(),
+        editable: true,
+        eventLimit: true, // allow "more" link when too many events
+        contentHeight: 600,
+        buttonText: {
+          today: '오늘',
+        },
+        events: jsonData
+      });
 
-    <title>Calendar #9</title>
-  </head>
-  <body>
-  
-
-  <div class="content">
-    <div id='calendar'></div>
-  </div>
-    
-    
-
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-
-    <script src='fullcalendar/packages/core/main.js'></script>
-    <script src='fullcalendar/packages/interaction/main.js'></script>
-    <script src='fullcalendar/packages/daygrid/main.js'></script>
-    <script type="text/javascript" src="json/data.json"></script>    
-    
-  
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-    var calendarEl = document.getElementById('calendar');
-
-    let jsonData = JSON.parse(JSON.stringify(data));
-
-    var calendar = new FullCalendar.Calendar(calendarEl, {
-      plugins: [ 'interaction', 'dayGrid' ],
-      defaultDate: Date.now(),
-      editable: true,
-      eventLimit: true, // allow "more" link when too many events
-      events: jsonData
+      calendar.render();
     });
 
-    calendar.render();
-  });
+  </script>
+  <style>
 
-    </script>
+    body {
+      margin: 40px 10px;
+      padding: 0;
+      font-family: 'Pretendard', Helvetica Neue, Helvetica, sans-serif;
+      font-size: 14px;
+    }
 
-    <script src="js/main.js"></script>
-  </body>
+    #calendar {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .fc-day-today {
+      background-color: #fff3b0 !important; /* 노란색 배경 */
+    }
+
+    /* 토요일 배경 */
+    .fc-day-sat {
+      color: #1e90ff !important; /* 토요일 글자색 (예: 파란색) */
+    }
+
+    /* 일요일 배경 */
+    .fc-day-sun {
+      color:  #ff4d4d !important; /* 일요일 글자색 (예: 빨간색) */
+    }
+  </style>
+</head>
+<body>
+
+<div id='calendar'></div>
+
+</body>
 </html>
