@@ -15,7 +15,7 @@
         defaultDate: Date.now(),
         editable: true,
         eventLimit: true, // allow "more" link when too many events
-        contentHeight: 600,
+        contentHeight: 1200,
         buttonText: {
           today: '오늘',
         },
@@ -36,8 +36,9 @@
     }
 
     #calendar {
-      max-width: 900px;
-      margin: 0 auto;
+      width: 100%;       /* 화면 너비 100% 사용 */
+      max-width: 900px;  /* 최대 900px 너비 제한 */
+      margin: 0 auto;    /* 가운데 정렬 */
     }
     .fc-day-today {
       background-color: #fff3b0 !important; /* 노란색 배경 */
